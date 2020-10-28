@@ -1,5 +1,5 @@
 # Connect4
-Connect 4 game in Java language
+Connect 4 game in Java using OOP.
 
 The games function is to allow 2 players to consecutively add coloured discs to a grid until one of them creates a pattern of 4 similar discs. The grid is of size 6x7.
 
